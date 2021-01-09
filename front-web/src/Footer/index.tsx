@@ -11,13 +11,13 @@ function Footer() {
         <a href="https://www.youtube.com/c/DevSuperior" target="_new">
           <YouTubeIcon />
         </a>
+        <a href="https://www.linkedin.com/school/devsuperior" target="_new">
+          <LinkedinIcon />
+        </a>
+        <a href="https://www.instagram.com/devsuperior.ig" target="_new">
+          <InstagramIcon />
+        </a>
       </div>
-      <a href="https://www.linkedin.com/school/devsuperior" target="_new">
-        <LinkedinIcon />
-      </a>
-      <a href="https://www.instagram.com/devsuperior.ig" target="_new">
-        <InstagramIcon />
-      </a>
     </footer>
   );
 }
